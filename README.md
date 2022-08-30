@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bilal Gujjar</h1>
+<h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">A Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-gujjar&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-gujjar" /> </p>
