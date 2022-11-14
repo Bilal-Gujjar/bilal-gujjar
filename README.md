@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JAM stack**
 
-- 📫 How to reach me **engbilal021@gmail.com**
+- 📫 How to reach me **[Contact](https://www.linkedin.com/in/ch-bilal/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
