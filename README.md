@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Next.JS & Web 3.0**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bilal-Gujjar](https://github.com/Bilal-Gujjar)
-
 - 💬 Ask me about **JAM Stack**
 
 - 📫 How to reach me **Message**
