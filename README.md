@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-gujjar&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-gujjar" /> </p>
 
-- 🌱 I’m currently learning **Next.JS & Web 3.0**
+- 🌱 I’m currently learning **Agentic AI & Web 3.0**
 
-- 💬 Ask me about **JAM Stack**
+- 💬 Ask me about **Agentic AI and FullStack**
 
 - 📫 How to reach me **[Message](https://www.linkedin.com/in/ch-bilal/)** 
 
