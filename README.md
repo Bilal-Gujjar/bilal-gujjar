@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Agentic AI and FullStack**
 
-- 📫 How to reach me **[Message](https://www.linkedin.com/in/ch-bilal/)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
